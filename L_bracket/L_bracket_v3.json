@@ -1,0 +1,16 @@
+{
+    "fileFormatVersion": "1",
+    "parameterSets": {
+        "Yeni set 1": {
+            "$fn": "100",
+            "base_hole_x": "45",
+            "base_length": "60",
+            "fillet_r": "2",
+            "hole_d": "6",
+            "overall_height": "50",
+            "thickness": "10",
+            "vertical_hole_z": "30",
+            "width": "20"
+        }
+    }
+}
